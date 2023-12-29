@@ -29,7 +29,8 @@ print("columns",len(df.axes[1]))
 ``````
 
 ### OUTPUT:
-![Alt text](CVS.jpg)
+![CVS](https://github.com/GAYATHRI-K06/Read-from-CSV/assets/145742742/516b7774-9376-4242-9450-3b0fef6f5a14)
+
 
 ### RESULT:
 Thus the program is written to copy the contents from one file to another file
